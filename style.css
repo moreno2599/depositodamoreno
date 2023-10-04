@@ -1,0 +1,55 @@
+
+
+
+.base  {
+
+width: 50%;
+
+position: fixed;
+
+}
+#card{
+    
+ width: 50%;
+}
+#FRECCIA{
+    position: absolute;
+    object-fit: cover;
+    border-radius: 10px;
+width: 30PX;
+    top: 85%;
+    left: 33%;
+
+}
+#ellissi{
+    position: absolute;
+    object-fit: cover;
+    border-radius: 10px;
+    left: 41%;
+    top: 85%;
+}
+
+#commento{
+    position: absolute;
+    object-fit: cover;
+    top: 87%;
+width: 150px;
+left: 5%;
+   
+}
+#save{
+   position: absolute;
+   object-fit: cover;
+    background-color: white ;
+color: black ;
+border-radius: 10px;
+top: 40px;
+left: 245px;
+}
+
+#card:hover{
+
+    opacity: 0.8;
+
+}
+
