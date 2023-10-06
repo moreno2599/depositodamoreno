@@ -3,11 +3,13 @@
 
 .base  {
 
-width: 50%;
-
-position: fixed;
+width: 50%  ;
 
 }
+
+
+
+
 #card{
     
  width: 50%;
@@ -17,24 +19,24 @@ position: fixed;
     object-fit: cover;
     border-radius: 10px;
 width: 30PX;
-    top: 85%;
-    left: 33%;
+    top: 375px;
+    left: 220px;
 
 }
 #ellissi{
     position: absolute;
     object-fit: cover;
     border-radius: 10px;
-    left: 41%;
-    top: 85%;
+    left: 270px;
+    top: 375px;
 }
 
 #commento{
     position: absolute;
     object-fit: cover;
-    top: 87%;
+    top: 380px;
 width: 150px;
-left: 5%;
+left: 3%;
    
 }
 #save{
@@ -53,3 +55,16 @@ left: 245px;
 
 }
 
+#save:hover{
+    margin-top: 5px;
+}
+
+#FRECCIA:hover{
+ top: 365px;
+}
+#commento:hover{
+    top: 365px;
+}
+   #ellissi:hover{
+    top: 365px;
+   }
